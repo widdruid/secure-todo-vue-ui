@@ -85,7 +85,7 @@ src/
 
 Backend repository:
 
-👉 https://github.com/YOUR_USERNAME/todo-fastapi-backend
+👉 https://github.com/widdruid/secure-todo-fastapi-api
 
 ---
 
